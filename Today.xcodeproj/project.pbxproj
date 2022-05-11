@@ -35,6 +35,7 @@
 		1CA19061282ADE6000CB8054 /* EKEventStore+AsyncFetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CA19060282ADE6000CB8054 /* EKEventStore+AsyncFetch.swift */; };
 		1CA19063282AE14400CB8054 /* Reminder+EKReminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CA19062282AE14400CB8054 /* Reminder+EKReminder.swift */; };
 		1CA19065282AE2EC00CB8054 /* ReminderStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CA19064282AE2EC00CB8054 /* ReminderStore.swift */; };
+		1CA19067282AF50400CB8054 /* EKReminder+Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CA19066282AF50400CB8054 /* EKReminder+Reminder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		1CA19060282ADE6000CB8054 /* EKEventStore+AsyncFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EKEventStore+AsyncFetch.swift"; sourceTree = "<group>"; };
 		1CA19062282AE14400CB8054 /* Reminder+EKReminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reminder+EKReminder.swift"; sourceTree = "<group>"; };
 		1CA19064282AE2EC00CB8054 /* ReminderStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderStore.swift; sourceTree = "<group>"; };
+		1CA19066282AF50400CB8054 /* EKReminder+Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EKReminder+Reminder.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				1CA19060282ADE6000CB8054 /* EKEventStore+AsyncFetch.swift */,
 				1CA19062282AE14400CB8054 /* Reminder+EKReminder.swift */,
 				1CA19064282AE2EC00CB8054 /* ReminderStore.swift */,
+				1CA19066282AF50400CB8054 /* EKReminder+Reminder.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				1C3535EB28258DEB004D9A4E /* CAGradientLayer+ListStyle.swift in Sources */,
 				1C4041CC28204EAD000C343F /* Reminder.swift in Sources */,
 				1CA19065282AE2EC00CB8054 /* ReminderStore.swift in Sources */,
+				1CA19067282AF50400CB8054 /* EKReminder+Reminder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

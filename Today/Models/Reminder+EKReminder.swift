@@ -17,5 +17,6 @@ extension Reminder{
         title = ekReminder.title
         self.dueDate = dueDate
         notes = ekReminder.notes
+        isComplete = ekReminder.isCompleted
     }
 }
